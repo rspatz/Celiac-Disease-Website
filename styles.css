@@ -1,0 +1,122 @@
+@font-face {
+	font-family: 'PT-Sans';
+	src: url('Fonts/PT-Sans/PTC55F.ttf');
+	format: ('true-type');
+}
+
+@font-face {
+	font-family: 'PT-Sans-Bold';
+	src: url('Fonts/PT-Sans/PTC75F.ttf');
+	format: ('true-type');
+}
+
+#wrapper {
+    max-width: 90em;   
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+#search {
+    float: right;   
+}
+
+#navigation {
+    padding-top: 2em;
+    padding-left: 6em;
+    position: fixed;   
+    top: 0;
+    width: 80%;
+    background-image: -webkit-gradient(
+    linear, left top, left bottom, from(rgba(61,22,7,.7)),
+    to(rgba(61,22,7,0)));
+}
+
+#navigation li {
+    margin-bottom: 2em;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a {
+    font-family: 'PT-Sans';
+    font-weight: 800;
+    padding: 50px;
+    font-size: 1em;
+    text-decoration: none;
+    color: #eeb757;
+    
+}
+
+body {
+  background-image : url(Celiac_Background_Home_Page.gif);
+  background-repeat : no-repeat;
+  background-position : 50% 50%;
+  background-attachment: fixed;
+}
+
+header {
+    padding-top: 4em;
+    padding-left: 5em;
+    margin-left: 10em;
+    padding: 4 5%;
+}
+
+article {
+    float: left;
+    padding-left: 5em;
+    padding-right: 5em;
+    max-width: 35em;
+    padding-top: .5em;
+    padding-bottom: 2em;
+    margin-bottom: 5em;
+    background-image: -webkit-gradient(
+        linear, left top, right bottom, from(rgba(216,118,34,5)),
+        to(rgba(216,118,34,0.1)));
+}
+
+#intro article, diet, resources {
+    background-color: rgba(216,118,34,.8); 
+}
+
+h1 {
+   font-family: 'PT-Sans-Bold';
+    color: #501408;
+}
+
+h2 {
+    font-family: 'PT-Sans-Bold';
+    color: #501408;
+}
+
+h3 {
+    font-family: 'PT-Sans';
+    margin: 15px 0;
+    font-size: 1.125em; /******14px******/
+    font-weight: normal;
+    line-height: 1.5em;
+    color: #501408;
+}
+
+#footer {
+    max-width: 72em;
+    height: 12em;
+    background-color: rgba(61,22,7,.7);
+    clear: both;
+}
+
+#col-1 {
+    float: left;
+    max-width: 25em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+#col-2 {
+    float: left;
+    max-width: 25em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}

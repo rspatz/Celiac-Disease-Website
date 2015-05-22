@@ -1,0 +1,27 @@
+Celiac Disease Web Site: Explanatory Text for Portfolio Web Site
+
+Today, the popular press gives the impression that people who are diagnosed with Celiac Disease have more access to gluten-free food and information
+than at any time in history, and perhaps that's true. However, the gluten-free lifestyle still has many pitfalls, and many are being misinformed
+and misled, particularly by websites, books, and articles claiming that the gluten-free diet is easy to manaage. Thus, there is a definite need
+for a website that attempts to assist and educate the newly-diagnosed, while offering support, and enabling them to support each other.
+
+1. Discovery Stage
+During the course of my research, I read many stories of people who had to find out which foods they could consume, as well as where to purchase
+them, after a diagnosis. Many food names give no indication of wheat or gluten, and can easily mislead the newly-diagnosed. Furthermore many have to deal with
+family members who don't understand why that person can no longer eat wheat or gluten, and this gave me a good idea of the needs of these people. People with
+Celiac Disease need access to reliable sources of information, reliable sources of Gluten-Free food, and a caring ommunity where they can share recipes and
+ideas, and get helpful advice.
+
+2. Planning Stage
+Next, I conducted further research on Celiac Disease, to make sure my information was correct, and wrote original content based on that
+research, using an Adaptive Content strategy to ensure my information would flow properly into all devices. I then created personas, based on the
+data, and scenarios to test the possible uses of the web site. 
+
+3. Creative Stage
+Next, I brainstormed for a name and chose a warm color pallet, picked from the stock photo I purchased from fotolia.com. Wireframes were created in 
+Adobe Illustrator CC 2014, from which comprehensives were created in Adobe Photoshop CC 2014. Fonts will be Utopia Display for the headings, and PT-Sans regular and
+bold for the text.
+
+4. Application Stage
+Using the Photoshop comps, I quickly developed an HTML5/CSS3/Sass prototype, which has been refined multiple times. While creating this project, I learned
+Sass, and I applied my new-found knowledge.
